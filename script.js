@@ -13,7 +13,8 @@ ScrollReveal({
 });
 ScrollReveal().reveal('.about', { delay: 500, origin: 'left' });
 ScrollReveal().reveal('.content', { delay: 400, origin: 'left'});
+ScrollReveal().reveal('.skills', { delay: 900, origin: 'left'});
 ScrollReveal().reveal('.main__img--container', { delay: 700, origin: 'bottom'});
-ScrollReveal().reveal('.work, .time, .right-side', { delay: 400, origin: 'bottom'});
+ScrollReveal().reveal('.work, .time.right-side', { delay: 400, origin: 'bottom'});
 ScrollReveal().reveal('.time', { delay: 700, origin: 'bottom'});
 ScrollReveal().reveal('.title', { delay: 400, origin: 'right'});
