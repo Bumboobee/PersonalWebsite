@@ -5,6 +5,7 @@
 <br />
 <br />
 Take a look at **it!**
-Website link: **https://bumboobee.github.io/PersonalWebsite/**
+<a href="https://bumboobee.github.io/PersonalWebsite/"><img src="images/Bee.jpg"></a>
 <br />
 #### I hope you enjoy it 😉
+
