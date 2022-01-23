@@ -5,7 +5,7 @@
 <br />
 <br />
 Take a look at **it!**
-<a href="https://bumboobee.github.io/PersonalWebsite/"> ![alt text](https://github.com/Bumboobee/PersonalWebsite/blob/images/Bee.jpg?raw=true) </a>
+**https://bumboobee.github.io/PersonalWebsite/**
 <br />
 #### I hope you enjoy it 😉
 
