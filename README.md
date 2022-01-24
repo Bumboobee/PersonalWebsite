@@ -10,9 +10,7 @@ Take a look at **it!**
 
 <br/>
 
-
 [![Portfolio](https://user-images.githubusercontent.com/94147847/150810368-af9c1e12-65ae-4698-bf1e-b596003083d6.png)](https://bumboobee.github.io/PersonalWebsite/).
-https://bumboobee.github.io/PersonalWebsite/
 
 <br />
 
