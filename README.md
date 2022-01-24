@@ -9,6 +9,6 @@ Take a look at **it!**
 [**CLICK HERE**](https://bumboobee.github.io/PersonalWebsite/)
 <br />
 
-I hope you enjoy it 😉
+**I** **hope** **you** **enjoy** **it** 😉
 
 
