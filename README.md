@@ -10,8 +10,8 @@ Take a look at **it!**
 
 <br/>
 
-![Screenshot](screenshot.png)
-[![Screenshot](screenshot.png)](https://bumboobee.github.io/PersonalWebsite/).
+
+[![Bee](Bee.png)](https://bumboobee.github.io/PersonalWebsite/).
 https://bumboobee.github.io/PersonalWebsite/
 
 <br />
