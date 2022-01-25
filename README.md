@@ -1,11 +1,14 @@
 # **Portfolio Website** 📱
 
+**This** is my **Website**. Here you can see all of latest **works** 
+<br />
 
-**This** is my **Website** where you can see all of my **work** 
+Take a look at **it!** 
 <br />
+
+[**CLICK HERE**](https://bumboobee.github.io/PersonalWebsite/)
 <br />
-Take a look at **it!**
-<a href="https://bumboobee.github.io/PersonalWebsite/"><img src="images/Bee.jpg"></a>
-<br />
-#### I hope you enjoy it 😉
+
+**I** **hope** **you** **enjoy** **it** 😉
+
 
