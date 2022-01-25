@@ -127,6 +127,7 @@ html{
     }
     #navbarr__logo{
         padding-left: 25px;
+        font-size: 1.7rem;
     }
     .navbarr__toggle .barr{
         width: 25px;
@@ -814,7 +815,7 @@ ul i{
 @media (max-width: 950px) {
     .containerr{
       width: 100%;
-      padding: 30px 40px 40px 35px ;
+      padding: 30px 40px 40px 35px;
     }
     .containerr .contentt .right-side{
      width: 100%;
@@ -844,6 +845,14 @@ ul i{
      margin-left: 0;
    }
 }
+@media (max-width: 480px) {
+    .containerr .contentt .left-side .details .fas{
+    font-size: 1.5rem;
+    }
+    .containerr.contentt .left-side .details .topic{
+        font-size: 1rem;
+    }
+}
 /* Footer CSS */
 .footerr__container{
     background-color: #181717;;
@@ -852,27 +861,6 @@ ul i{
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-#footerr__logo{
-    color: #fff;
-    display: flex;
-    align-items: center;
-    cursor: pointer;
-    text-decoration: none;
-    font-size: 2rem;
-}
-#footerr__logo:hover{
-    color: #ffffff;
-    text-shadow:
-    0 0 7px #fff,
-    0 0 10px #fff,
-    0 0 15px #fff,
-    0 0 20px #2dff08,
-    0 0 40px #2dff08,
-    0 0 50px #2dff08,
-    0 0 60px #2dff08,
-    0 0 80px #2dff08;
-    transition: all 0.2s ease-in-out;
 }
 .social__icon--link:hover{
     color: #ffffff;
