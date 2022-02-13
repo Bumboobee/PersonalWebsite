@@ -8,7 +8,16 @@
 This project was made for personal purposes, using the basic front-end development.
 
 It's a Portfolio page created by **[me, myself and I](https://bumboobee.github.io/PersonalWebsite/)**.
+
+### What i used 
+
+[Bulma](https://bulma.io/documentation/)
+
+[Font Awesome](https://fontawesome.com/)
+
+[ScrollReveal](https://scrollrevealjs.org/)
 &nbsp; 
+
 ### Take a look 🙆‍♂️
 
  **The final result you can see [➡here⬅](https://bumboobee.github.io/PersonalWebsite/)**
