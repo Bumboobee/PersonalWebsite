@@ -22,6 +22,8 @@ It's a Portfolio page created by **[me, myself and I](https://bumboobee.github.i
 - JavaScript
  
 - [ScrollReveal](https://scrollrevealjs.org/)
+
+- **Coffee...** like, a lot ☕
 &nbsp; 
 
 ### Take a look 🙆‍♂️
