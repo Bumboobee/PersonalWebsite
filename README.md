@@ -11,11 +11,17 @@ It's a Portfolio page created by **[me, myself and I](https://bumboobee.github.i
 
 ### What i used 
 
-[Bulma](https://bulma.io/documentation/)
+- [Bulma](https://bulma.io/documentation/)
 
-[Font Awesome](https://fontawesome.com/)
+- Css
 
-[ScrollReveal](https://scrollrevealjs.org/)
+- [Font Awesome](https://fontawesome.com/)
+
+- Html
+
+- JavaScript
+ 
+- [ScrollReveal](https://scrollrevealjs.org/)
 &nbsp; 
 
 ### Take a look 🙆‍♂️
