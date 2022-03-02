@@ -7,7 +7,7 @@
 
 This project was made for personal purposes, using the basic front-end development.
 
-It's a Portfolio page created by **[me, myself and I](https://bumboobee.github.io/PersonalWebsite/)**.
+It's a Portfolio page created by **[me, myself & I](https://www.youtube.com/watch?v=bSfpSOBD30U)**.
 
 ### What i used 
 
